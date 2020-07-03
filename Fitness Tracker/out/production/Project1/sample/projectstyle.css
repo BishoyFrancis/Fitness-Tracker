@@ -1,0 +1,45 @@
+.root{
+    -fx-background-color: #FFFFFF;
+    -fx-padding: 15;
+    -fx-border-style: solid inside;
+    -fx-border-width: 4;
+    -fx-border-insets: 10;
+    -fx-border-radius: 5;
+    -fx-border-color:#0004FF;
+}
+
+#labelfitness {
+   -fx-border-color: red #FFFFFF black;
+    -fx-border-style: solid inside;
+    -fx-background-color: white;
+    -fx-border-width: 5;
+    -fx-border-insets: -10;
+    -fx-border-radius: 5;
+}
+
+.button:hover{
+    -fx-text-fill: #000000;
+    -fx-background-color: #00FFFF;
+}
+
+.button{
+    -fx-background-color: aquamarine;
+}
+
+#ResultsButton{
+    -fx-background-color: yellow;
+}
+
+.text-field {
+    -fx-background-color: #a9a9a9 , white , white;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+
+.text-field:focused {
+    -fx-background-color: #a9a9a9 , white , white;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+#resetbutton:hover {
+    -fx-text-fill: red;
+    -fx-background-color: #FFFFFF;
+}

@@ -1,0 +1,57 @@
+.root{
+    -fx-background-color: #FFFFFF;
+    -fx-padding: 15;
+    -fx-border-style: solid inside;
+    -fx-border-width: 4;
+    -fx-border-insets: 10;
+    -fx-border-radius: 5;
+    -fx-border-color:#0004FF;
+}
+
+#labelfitness {
+    -fx-border-color: red #FFFFFF black;
+    -fx-border-style: solid inside;
+    -fx-background-color: white;
+    -fx-border-width: 5;
+    -fx-border-insets: -10;
+    -fx-border-radius: 5;
+}
+
+#calorieslabel{
+    -fx-border-color: Red;
+    -fx-border-width: 5 ;
+    -fx-border-insets: -10;
+    -fx-border-radius: 5;
+}
+
+#heartratelabel{
+    -fx-border-color: Red;
+    -fx-border-width: 5 ;
+    -fx-border-insets: -10;
+    -fx-border-radius: 5;
+}
+
+#label1{
+    -fx-border-color: #3798FF;
+    -fx-border-width: 5 ;
+    -fx-border-insets: -9;
+    -fx-border-radius: 5;
+}
+#label2{
+     -fx-border-color: #3798FF;
+     -fx-border-width: 5 ;
+     -fx-border-insets: -9;
+     -fx-border-radius: 5;
+ }
+#label3{
+    -fx-border-color: #3798FF;
+    -fx-border-width: 5 ;
+    -fx-border-insets: -9;
+    -fx-border-radius: 5;
+}
+#label4{
+    -fx-border-color: #3798FF;
+    -fx-border-width: 5 ;
+    -fx-border-insets: -9;
+    -fx-border-radius: 5;
+}
